@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Pratham660">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratham660&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham660&theme=buefy&layout=compact" />
 </a>
 
 <br/>
