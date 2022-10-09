@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Pratham660">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Pratham660&theme=algolia&show_icons=true" />
+<!--  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Pratham660&theme=algolia&show_icons=true" />   -->
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Pratham660&style=flat-square&label=Profile+Views">
 </a>
