@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3> Hi there 👋 .. I'm Pratham</h3>
+<h3> Hi!! I'm Pratham</h3>
 
 <h4> 👨🏻‍💻 &nbsp;You can find me ... </h4>
 
