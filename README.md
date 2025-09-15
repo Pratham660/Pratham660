@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Jaypee Institute Of Information Technology , Noida.
 - 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
-- ✍️ &nbsp; Blog Writing and Singing are hobbies/side hustles.
-- 💬 &nbsp; Ask me about tech, music, dance , movies ...
+- 💬 &nbsp; Ask me about tech, music, movies ...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
