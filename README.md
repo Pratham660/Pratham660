@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hi there 👋 .. I'm Pratham</h2>
+<h3> Hi there 👋 .. I'm Pratham</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h4> 👨🏻‍💻 &nbsp;You can find me ... </h4>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science at Jaypee Institute Of Information Technology , Noida.
-- 🌱 &nbsp; Learning more about Web Development and Artificial Intelligence.
-- 💬 &nbsp; Ask me about tech, music, movies ...
+- 🤔 &nbsp; exploring new technologies, ai trends
+- 🌱 &nbsp; learning algos, cs fundamentals
+- 💬 &nbsp; talking on tech, music, movies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,10 +37,10 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
@@ -50,12 +49,8 @@ Here are some ideas to get you started:
 <!--  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Pratham660&theme=algolia&show_icons=true" />   -->
   <img src="https://komarev.com/ghpvc/?username=Pratham660&style=flat-square&label=Profile+Views">
 </a>
-
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
+<p>
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/pagarwal660/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratham%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:prathamagarwal660@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prathamagarwal660@gmail-blue?style=flat-square&logo=gmail"></a>
